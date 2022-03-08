@@ -1,4 +1,5 @@
 module.exports = {
+  content: ["./src/**/*.{html,js}"],
   purge: [
     './_includes/**/*.html',
     './_layouts/**/*.html',
